@@ -63,4 +63,12 @@ Espero ter ajudado! Bons estudos, Dev! Nos vemos no próximo projeto :)
 
 ## <a href="https://github.com/JulieCamilo/404ERROR"> 404 ERROR </a>
 
-<img src="./assets/404error1.png" alt="projeto404error" align="center" weight="100">
+<img src="./assets/404error1.png" alt="projeto404error" align="center" weight="50">
+
+O 404 ERROR é um site de pizzaria responsivo desenvolvido como projeto final do curso técnico de tecnologia da informação pelo Senac.
+
+## <a href="https://github.com/JulieCamilo/Pong"> Pong </a>
+
+<img src="./assets/pong.png" alt="projetojogodopong" align="center" weight="50">
+O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos primeiros jogos eletrônicos lucrativos da história.
+
