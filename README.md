@@ -70,5 +70,6 @@ O 404 ERROR é um site de pizzaria responsivo desenvolvido como projeto final do
 ## <a href="https://github.com/JulieCamilo/Pong"> Pong </a>
 
 <img src="./assets/pong.png" alt="projetojogodopong" align="center" weight="50">
+
 O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos primeiros jogos eletrônicos lucrativos da história.
 
